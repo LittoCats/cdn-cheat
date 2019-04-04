@@ -22,7 +22,7 @@
 /**
 
   在 macdown 源文件中引入该文件
-  <script src="https://raw.githubusercontent.com/LittoCats/cdn-cheat/master/macdown-flowchart.js"></script>
+  <script src="http://cdn.jsdelivr.net/gh/LittoCats/cdn-cheat/macdown-flowchart.js"></script>
   或将
   ```flowchart
   ...
